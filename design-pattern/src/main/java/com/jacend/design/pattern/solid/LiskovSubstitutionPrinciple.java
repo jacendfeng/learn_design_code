@@ -8,6 +8,7 @@ package com.jacend.design.pattern.solid;
  * 通俗点讲：
  * 只要父类能出现的地方子类就可以出现，而且替换为子类也不会产生任何错误或异常，
  * 使用者可能根本就不需要知道是父类还是子类
+ *
  * @author fengxf
  * @since 2018-09-09
  */
