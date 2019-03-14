@@ -37,3 +37,4 @@ think-in-java/target/
 try-groovy/src/main/resources/
 try-groovy/src/test/java/
 try-groovy/target/
+/try-baker/try-baker.iml
