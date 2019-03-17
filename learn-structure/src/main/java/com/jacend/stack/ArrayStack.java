@@ -42,5 +42,7 @@ public class ArrayStack {
         int count = 4;
         count -= 2;
         System.out.println(count);
+        int[] nums = new int[]{1,2};
+        System.out.println(nums.length);
     }
 }

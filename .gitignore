@@ -14,11 +14,6 @@ design-pattern/src/main/java/com/jacend/design/pattern/command/
 design-pattern/src/main/java/com/jacend/design/pattern/singleton/
 design-pattern/src/main/resources/
 design-pattern/src/test/
-jdk-source/src/main/java/com/jacend/jdk/collection/
-jdk-source/src/main/java/com/jacend/jdk/concurrent/
-jdk-source/src/main/java/com/jacend/jdk/reflect/
-jdk-source/src/main/java/com/jacend/jdk/security/
-jdk-source/src/main/resources/
 jdk-source/src/test/
 jdk-source/target/
 learn-structure/src/main/java/com/jacend/linkedlist/
@@ -38,3 +33,4 @@ try-groovy/src/main/resources/
 try-groovy/src/test/java/
 try-groovy/target/
 /try-baker/try-baker.iml
+!/jdk-source/src/main/java/
